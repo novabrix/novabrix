@@ -2,10 +2,9 @@
 
 I'm an aspiring **full-stack web developer** and part-time **indie game dev**. My main skill is **combining art and logic** to make something beautiful! I started my development journey around 6 months ago, but I believe I can get there with hard work and determination! ♥️
 
-Next Steps: Getting a junior webdev internship through Genesys Works and finishing The Odin Project!
+Next Steps: Getting a **junior webdev internship** through Genesys Works and finishing **The Odin Project**!
 
-
-![Banner Image](img/purpCity.jpg)
+![Banner Image](img/newPurpCity.jpg)
 
 # == Tools and Technologies ==
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,8 +13,6 @@ Next Steps: Getting a junior webdev internship through Genesys Works and finishi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-Browsers:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
@@ -26,11 +23,10 @@ Browsers:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # == What I'm Working On Right Now: ==
-Software Developer: The Odin Project, Jonas Schmedttman's Udemy Course
-Indie Game Dev: Kingmaker Prototype (awesome!)
+The Odin Project, Genesys Works Training, Jonas Schmedttman's Udemy Course, Kingmaker Prototype (awesome!)
 
 
 
