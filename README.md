@@ -1,6 +1,6 @@
 ## == Hello, Hello! I'm Idriis👋 ==
 
-I'm an aspiring **full-stack web developer** constantly working to better myself. My main skill is **combining art and logic** to make something beautiful! I started my development journey around 6 months ago, but I believe I can get there with hard work and determination! ♥️
+I'm an aspiring **full-stack web developer** and I am constantly working to better myself. My main skill is **combining art and logic** to make something beautiful! I started my development journey around 6 months ago, but I believe I can get there with hard work and determination! ♥️
 
 Next Steps: Getting a **junior webdev internship** through Genesys Works and finishing **The Odin Project**!
 
